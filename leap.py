@@ -1,4 +1,4 @@
-n=int(input())
+n=eval(input())
 if(n%4==0):
     print('yes')
 else:
